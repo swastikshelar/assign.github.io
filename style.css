@@ -251,7 +251,7 @@ svg {
 .card {
     /* width: calc(100% / 3); */
     width: 320px;
-    height: 323px;
+    height: 355px;
     background-color: #f1f1f1;
     margin-right: 20px;
     padding: 20px;
@@ -268,7 +268,7 @@ svg {
 .arrow-container {
     position: absolute;
     /* top: 50%; */
-    right: 22rem;
+    right: 15rem;
     transform: translateY(-50%);
 }
 
